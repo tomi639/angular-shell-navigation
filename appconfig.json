@@ -2,7 +2,7 @@
   "name": "Angular shell navigation",
   "provider": "deres639",
   "description": "Sample extension inside Shell with Shell navigation - fake routing",   
-  "version": "1.0.16", 
+  "version": "1.0.19", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
   "useShellSDK": true,
   "outletPositions": [
