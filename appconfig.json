@@ -1,0 +1,68 @@
+{
+  "name": "Extension with Shell navigation",
+  "provider": "SAP FSM",
+  "description": "Sample extension inside Shell with Shell navigation",   
+  "version": "1.0.0", 
+  "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
+  "useShellSDK": true,
+  "outletPositions": [
+		"SHELL_HOME_SCREEN"
+	],
+  "shellNavigation": {
+    "icon": "activities",
+    "sideNavigation": [
+      {
+        "pathSegment": "home",
+        "labelTranslations": [
+          {
+            "lang": "en",
+            "value": "Home"
+          },
+          {
+            "lang": "sk",
+            "value": "Domov"
+          }
+        ],
+        "viewUrl": "/#/",
+        "icon": "home",
+        "isDefault": true,
+        "children": []
+      },
+      {
+        "pathSegment": "actions",
+        "labelTranslations": [
+          {
+            "lang": "en",
+            "value": "Actions"
+          },
+          {
+            "lang": "sk",
+            "value": "Akcie"
+          }
+        ],
+        "viewUrl": null,
+        "icon": "activity-2",
+        "isDefault": false,
+        "children": [
+          {
+            "pathSegment": "edit",
+            "labelTranslations": [
+              {
+                "lang": "en",
+                "value": "Edit"
+              },
+              {
+                "lang": "sk",
+                "value": "Editovat"
+              }
+            ],
+            "viewUrl": "/#/actions/edit",
+            "icon": null,
+            "isDefault": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }  
+}
