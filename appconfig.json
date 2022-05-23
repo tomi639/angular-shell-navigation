@@ -1,6 +1,6 @@
 {
-  "name": "Extension with Shell navigation",
-  "provider": "SAP FSM",
+  "name": "Angular shell navigation",
+  "provider": "deres639",
   "description": "Sample extension inside Shell with Shell navigation",   
   "version": "1.0.0", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
