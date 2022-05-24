@@ -1,0 +1,90 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "studentEmail": "johndoe@example.com",
+      "course": "Bsc Software Engineering",
+      "yearOfStudy": 2,
+      "registrationNumber": "126435485"
+    },
+    {
+      "firstName": "Mellie",
+      "lastName": "Gabbott",
+      "studentEmail": "mgabbott0@indiatimes.com",
+      "course": "Bsc Computer Science",
+      "yearOfStudy": 4,
+      "registrationNumber": "9764955485"
+    },
+    {
+        "firstName": "Yehudi",
+        "lastName": "Ainsby",
+        "studentEmail": "yainsby1@w3.org",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber": "9764955485"
+      },
+      {
+        "firstName": "Noellyn",
+        "lastName": "Primett",
+        "studentEmail": "nprimett2@ning.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber": "165546151464"
+      },
+      {
+        "firstName": "Stefanie",
+        "lastName": "Yurenin",
+        "studentEmail": "syurenin3@boston.com",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber": "1648644846864"
+      },
+      {
+        "firstName": "Keelia",
+        "lastName": "Giraudy",
+        "studentEmail": "kgiraudy5@nba.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber": "4646168465349"
+      },
+      {
+        "firstName": "Dionysus",
+        "lastName": "McCory",
+        "studentEmail": "dmccory8@ox.ac.uk",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber": "3697755485"
+      },
+      {
+        "firstName": "Noellyn",
+        "lastName": "Primett",
+        "studentEmail": "nprimett2@ning.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber": "165546151464"
+      },
+      {
+        "firstName": "Stefanie",
+        "lastName": "Yurenin",
+        "studentEmail": "syurenin3@boston.com",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber": "1648644846864"
+      },
+      {
+        "firstName": "Keelia",
+        "lastName": "Giraudy",
+        "studentEmail": "kgiraudy5@nba.com",
+        "course": "Bsc Computer Science",
+        "yearOfStudy": 4,
+        "registrationNumber": "4646168465349"
+      },
+      {
+        "firstName": "Dionysus",
+        "lastName": "McCory",
+        "studentEmail": "dmccory8@ox.ac.uk",
+        "course": "Bsc Software Engineering",
+        "yearOfStudy": 2,
+        "registrationNumber": "3697755485"
+      }
+  ]
