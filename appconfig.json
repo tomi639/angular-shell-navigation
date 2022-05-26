@@ -1,8 +1,8 @@
 {
   "name": "Angular shell navigation",
   "provider": "deres639",
-  "description": "Sample extension inside Shell with Shell navigation - araay",   
-  "version": "1.0.40", 
+  "description": "Sample extension inside Shell with Shell navigation - with add row and edit row",   
+  "version": "1.0.31", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
   "useShellSDK": true,
   "outletPositions": [
