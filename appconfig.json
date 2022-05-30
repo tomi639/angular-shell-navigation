@@ -1,8 +1,8 @@
 {
   "name": "Angular shell navigation",
   "provider": "deres639",
-  "description": "Sample extension inside Shell with Shell navigation - rewrite to promise?",   
-  "version": "1.0.46", 
+  "description": "Sample extension inside Shell with Shell navigation - async test",   
+  "version": "1.0.48", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
   "useShellSDK": true,
   "outletPositions": [
