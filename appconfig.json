@@ -1,7 +1,7 @@
 {
   "name": "Angular shell navigation",
   "provider": "deres639",
-  "description": "Sample extension inside Shell with Shell navigation - response data test",   
+  "description": "Sample extension inside Shell with Shell navigation - array test",   
   "version": "1.0.42", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
   "useShellSDK": true,
