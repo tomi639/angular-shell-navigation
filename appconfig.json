@@ -1,8 +1,8 @@
 {
   "name": "Angular shell navigation",
   "provider": "deres639",
-  "description": "Sample extension inside Shell with Shell navigation - promise received 3",   
-  "version": "1.0.56", 
+  "description": "Sample extension inside Shell with Shell navigation - print out promise",   
+  "version": "1.0.57", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
   "useShellSDK": true,
   "outletPositions": [
