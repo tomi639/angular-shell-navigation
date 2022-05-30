@@ -1,7 +1,7 @@
 {
   "name": "Angular shell navigation",
   "provider": "deres639",
-  "description": "Sample extension inside Shell with Shell navigation - convert data, ngfor",   
+  "description": "Sample extension inside Shell with Shell navigation - ngfor",   
   "version": "1.0.44", 
   "icon": "https://raw.githubusercontent.com/tomi639/js-test-extension/master/icon.png",
   "useShellSDK": true,
